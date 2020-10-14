@@ -1,0 +1,30 @@
+
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(İ†Á—ÿÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ
+]
+java:S1192 "HDefine a constant instead of duplicating this literal "content" 3 times.(ÊæâS
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(íòŒæúÿÿÿÿ
+j
+java:S1192L"ODefine a constant instead of duplicating this literal "Blog not found" 4 times.(¤Î—Ïşÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "title" 3 times.(¹„öÿÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(Úü€ùüÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(†µåûÿÿÿÿ
+Œ
+java:S1192E"qDefine a constant instead of duplicating this literal "The blog with the corresponding id was not found" 6 times.(‹Üˆ‚üÿÿÿÿ
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(¨İŠ‹ûÿÿÿÿ
+e
+java:S1192"JDefine a constant instead of duplicating this literal "author_id" 3 times.(¨Ê°‹şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(µ´úr
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(‘¾áõ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(Û×¹™
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œëÏ¶øÿÿÿÿ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ø¢‘õúÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¦ÉÊí
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(úÿ¬…úÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¯’Åÿÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(¤Î—Ïşÿÿÿÿ
+[
+java:S2259­"DA "NullPointerException" could be thrown; "result" is nullable here.(ÁùÄí

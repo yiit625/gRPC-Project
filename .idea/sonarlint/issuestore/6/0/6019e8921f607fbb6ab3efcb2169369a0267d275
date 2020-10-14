@@ -1,0 +1,21 @@
+
+H
+java:S11997"-Extract this nested code block into a method.(ê×Êüÿÿÿÿ
+H
+java:S1199D"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+K
+java:S1066ª"/Merge this if statement with the enclosing one.(ñé¿ûÿÿÿÿ
+u
+java:S1488˜"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+z
+java:S4144ß"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 582.(¼¹È½
+n	java:S116e"TRename this field "greeting_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–µ‰×ıÿÿÿÿ
+]
+java:S1126­"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+o	java:S116º"TRename this field "greeting_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–µ‰×ıÿÿÿÿ
+v	java:S116¼"[Rename this field "greetingBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥…©ûÿÿÿÿ
+?	java:S108¿")Either remove or fill this block of code.(º„ç½
+o
+java:S2975ï"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+p
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸®òÖ

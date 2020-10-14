@@ -1,0 +1,28 @@
+
+F
+java:S1199"-Extract this nested code block into a method.(ê×Êüÿÿÿÿ
+A
+java:S1199"-Extract this nested code block into a method.(ò‘
+F
+java:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+r
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+z
+java:S4144¶"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 669.(ª÷Ë‹
+p
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¬¢‡Íøÿÿÿÿ
+k
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‡‰¸¯
+m	java:S116"URename this field "firstName_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¢‡Íøÿÿÿÿ
+g	java:S116"TRename this field "lastName_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‰¸¯
+E
+java:S1948",Make "firstName_" transient or serializable.(¬¢‡Íøÿÿÿÿ
+?
+java:S1948"+Make "lastName_" transient or serializable.(‡‰¸¯
+Z
+java:S1126"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+p	java:S116ğ"URename this field "firstName_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªœÏäúÿÿÿÿ
+o	java:S116¼"TRename this field "lastName_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äì’šşÿÿÿÿ
+?	java:S108õ")Either remove or fill this block of code.(º„ç½
+o
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ

@@ -1,0 +1,17 @@
+
+T	java:S106X"9Replace this use of System.out or System.err by a logger.(Óòõ~8ìèûí².
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(½Ä‡
+]
+java:S2142”"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Hello " 4 times.(ñÔ«Ó8ÕÛÿê².
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ºÇ¥
+\
+java:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ÔÍëí².
+}
+java:S1488c"gImmediately return this expression instead of assigning it to the temporary variable "requestObserver".(Ú„ÜÅ
+}
+java:S1488<"gImmediately return this expression instead of assigning it to the temporary variable "requestObserver".(¬Ï¹—

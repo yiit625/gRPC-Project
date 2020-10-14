@@ -1,0 +1,36 @@
+
+]
+java:S2142”"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106S"9Replace this use of System.out or System.err by a logger.( «œ±ûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¨ªô¡üÿÿÿÿ
+X	java:S125$"<This block of commented-out lines of code should be removed.(¾í¨Ù8‡†ÌÍ².
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(É—Ïáøÿÿÿÿ
+]
+java:S2142ž"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O	java:S899n":Do something with the "boolean" value returned by "await".(‰þÓê
+S
+java:S1144£"0Remove this unused private "doErrorCall" method.(îÌ÷‚ûÿÿÿÿ8‡†ÌÍ².
+G
+java:S1602D",Remove useless curly braces around statement(¥¨¡ôùÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(õ€È˜ùÿÿÿÿ
+P	java:S899":Do something with the "boolean" value returned by "await".(‰þÓê
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(¸ë’€ýÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(•¾²C8‡†ÌÍ².
+W
+java:S1144J":Remove this unused private "doClientStreamingCall" method.(úÅÌ8‡†ÌÍ².
+]	java:S125""<This block of commented-out lines of code should be removed.(§Êþúÿÿÿÿ8‡†ÌÍ².
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(íÞÝ
+œ
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µžµöùÿÿÿÿ
+\
+java:S1144=":Remove this unused private "doServerStreamingCall" method.(÷„½Àÿÿÿÿÿ8µÞËÍ².
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(Ìš„Ù
+Z
+java:S1144t"8Remove this unused private "doBidiStreamingCall" method.(‹þÔúÿÿÿÿ8‡†ÌÍ².
+X	java:S125"<This block of commented-out lines of code should be removed.(Å‡êë8µÞËÍ².
+N	java:S106Ž"9Replace this use of System.out or System.err by a logger.(†ç \
+\
+java:S2142o"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(çëÄÖÿÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¼É®Öùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ºÒêüÿÿÿÿ

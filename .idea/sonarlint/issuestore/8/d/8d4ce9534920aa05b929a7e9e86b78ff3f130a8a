@@ -1,0 +1,50 @@
+
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(´žø«ùÿÿÿÿ
+W	java:S125("<This block of commented-out lines of code should be removed.(•¾²C8Å³àò².
+Ž
+java:S1130"sRemove the declaration of thrown exception 'javax.net.ssl.SSLException', as it cannot be thrown from method's body.(üæúÿÿÿÿ
+]
+java:S2142Ö"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+X	java:S125&"<This block of commented-out lines of code should be removed.(Å‡êë8‹Æ¼ò².
+Q	java:S125."<This block of commented-out lines of code should be removed.(û£‡‹
+\
+java:S1144M":Remove this unused private "doServerStreamingCall" method.(÷„½Àÿÿÿÿÿ8‹Æ¼ò².
+U	java:S899¤":Do something with the "boolean" value returned by "await".(³Á°Žýÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¨ªô¡üÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(„‘Òóûÿÿÿÿ
+O	java:S106õ"9Replace this use of System.out or System.err by a logger.(õ¿Í‡
+]
+java:S2142Ì"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+P	java:S899Õ":Do something with the "boolean" value returned by "await".(‰þÓê
+]	java:S125$"<This block of commented-out lines of code should be removed.(ºÀè‰øÿÿÿÿ8üÞ›ò².
+X	java:S125,"<This block of commented-out lines of code should be removed.(§è…ª8ÎªÊ².
+M
+java:S11445"0Remove this unused private "doUnaryCall" method.(µý¹÷8üÞ›ò².
+N	java:S106½"9Replace this use of System.out or System.err by a logger.(™‚@
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(›ÅÅåøÿÿÿÿ
+W
+java:S1144a":Remove this unused private "doClientStreamingCall" method.(úÅÌ8Å³àò².
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(‚½³Òüÿÿÿÿ
+N	java:S106™"9Replace this use of System.out or System.err by a logger.(ÒÃó1
+]
+java:S2142¦"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(¢«ùÓ
+_
+java:S1192<"IDefine a constant instead of duplicating this literal "Stephane" 6 times.(È©’±
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(àÈ ´ûÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÂÍ¾È
+V	java:S125""<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ
+N	java:S106‘"9Replace this use of System.out or System.err by a logger.(›ÀœL
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è«èÔÿÿÿÿÿ8‚ŒÊ².
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(·÷“¥
+_
+java:S1144Ü"<Remove this unused private "doUnaryCallWithDeadline" method.(›Ç­üÿÿÿÿ8ÎªÊ².
+G
+java:S1602[",Remove useless curly braces around statement(¶‡®ºúÿÿÿÿ
+O	java:S106å"9Replace this use of System.out or System.err by a logger.(õ¿Í‡
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(Ìš„Ù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ºÒêüÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(€Ëà÷øÿÿÿÿ
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(„‘Òóûÿÿÿÿ
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ÝŸú…ûÿÿÿÿ
+X	java:S125g"<This block of commented-out lines of code should be removed.(ó´¼’8Ê³¿ò².
