@@ -9,7 +9,7 @@ public class BlogClient {
 
     public static void main(String[] args) {
         System.out.println("Hello I'm a gRPC client for Blog");
-        //CONFLICT
+        //CONFLICT1
 
         BlogClient main = new BlogClient();
         main.run();
