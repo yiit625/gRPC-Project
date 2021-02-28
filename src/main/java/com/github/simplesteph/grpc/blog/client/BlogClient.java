@@ -13,6 +13,7 @@ public class BlogClient {
 
         BlogClient main = new BlogClient();
         main.run();
+        
     }
 
     private void run() {
